@@ -1,8 +1,10 @@
 # 0x16. C - Simple Shell
-1. Simple shell 0.1
-mandatory
+## 1. Simple shell 0.1
+
+**Mandatory**
+
 Write a UNIX command line interpreter.
-Usage: simple_shell
+Usage: ``` simple_shell ```
 Your Shell should:
 Display a prompt and wait for the user to type a command. A command line always ends with a new line.
 The prompt is displayed again each time a command has been executed.
