@@ -14,7 +14,7 @@
 > 
 > Our shell shall be called `hsh`.
 ## Introduction
-This repository is a ALX Holberton School Project. The school project consisted in writing a shell like `sh` (Bourne Shell) by Stephen Bourne , in `C`, using a limited number of standard library functions, so instead we used our own function that we rewrited over the past three month [Here.](https://github.com/TosinISOGUN/alx-low_level_programming)
+This repository is a ALX Holberton School Project. The school project consisted in writing a shell like `sh` (Bourne Shell) by Stephen Bourne , in `C`, using a limited number of standard library functions, so instead we used our own function that we rewrote over the past three month [Here.](https://github.com/Samfrodo9/alx-low_level_programming)
 
 The goal in this project is to make us understand how a shell works.
 - To single out some core topics which includes;
@@ -23,7 +23,7 @@ The goal in this project is to make us understand how a shell works.
   - How to create processes using `execve...`
 
 ## General Requirements
-<img src="https://alx-apply.hbtn.io/brand_alx/share_image_2019.jpg" width="300" height="100" />
+
 
 - `README file`, at the root of the folder of the project is mandatory.
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -51,7 +51,7 @@ In order to run this program,
 
 Clone This Repo;
 
-`git clone https://github.com/Samfrodo9/simple_shell.git`
+`git clone https://github.com/Ismail-easytech/simple_shell.git`
 
 Compile it with;
 
